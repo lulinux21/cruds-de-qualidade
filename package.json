@@ -1,0 +1,28 @@
+{
+  "name": "cruds-de-qualidade",
+  "version": "1.0.0",
+  "description": "Projeto criando um CRUD com qualidade!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./core/crud.js",
+    "dev": "nodemon ./core/crud.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulinux21/cruds-de-qualidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulinux21/cruds-de-qualidade/issues"
+  },
+  "homepage": "https://github.com/lulinux21/cruds-de-qualidade#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
